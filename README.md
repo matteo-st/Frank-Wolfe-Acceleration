@@ -20,9 +20,10 @@ This project investigates the acceleration convergence rates of the Frank-Wolfe 
 1. Clone this repository:
   ```bash
   git clone https://github.com/matteo-st/Frank-Wolfe-Acceleration.git
-
+  ```
 2. Open the `main.ipynb` notebook in Jupyter:
   ```bash
   jupyter notebook main.ipynb
+  ```
 
 4. Follow the instructions in the notebook to run the experiments and analyze the results.
